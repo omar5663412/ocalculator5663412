@@ -86,3 +86,4 @@ class Calculator extends Component {
 render(
   <Calculator />, document.getElementById('root')
 );
+let n1
